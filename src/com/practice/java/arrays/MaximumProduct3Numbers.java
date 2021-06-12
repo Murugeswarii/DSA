@@ -1,4 +1,4 @@
-package com.pracice.java.arrays;
+package com.practice.java.arrays;
 
 public class MaximumProduct3Numbers {
 	

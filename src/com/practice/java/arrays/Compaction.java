@@ -1,4 +1,4 @@
-package com.pracice.java.arrays;
+package com.practice.java.arrays;
 public class Compaction {
 	//Move all the running process and empty blocks to the end so that continuous blocks can be alloted next
 	//Means move all non zero elements to front and zero elements to the back of the array
